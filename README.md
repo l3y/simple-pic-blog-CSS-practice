@@ -1,2 +1,3 @@
 # simple-pic-blog-CSS-practice
-Blog of pictures
+<p> Blog of pictures</p>
+<p> Skills trained: Box Modeling </p>
